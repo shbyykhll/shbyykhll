@@ -1,16 +1,35 @@
-### Hi there 👋
+# Biodata - USERNAME
 
-<!--
-**shbyykhll/shbyykhll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
 
-Here are some ideas to get you started:
+Halo, saya [Nama Lengkap Anda]. Saya tertarik pada [sebutkan minat atau bidang yang Anda sukai]. Saya saat ini berada di [lokasi Anda].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pendidikan
+
+- **Gelar Sarjana**, [Nama Program Studi], [Nama Universitas], Tahun Lulus
+
+## Pengalaman Kerja
+
+### [Nama Perusahaan atau Proyek]
+
+- [Deskripsi tugas dan tanggung jawab]
+- Tanggal Mulai - Tanggal Selesai
+
+## Keahlian
+
+- Bahasa Pemrograman: Python, JavaScript
+- Keahlian Desain: Photoshop, Figma
+- [Tambahkan keahlian lainnya]
+
+## Proyek Terkini
+
+### [Nama Proyek]
+
+- [Deskripsi proyek]
+- Tautan repository: [Link ke repository]
+
+## Kontak
+
+- GitHub: [USERNAME](https://github.com/USERNAME)
+- LinkedIn: [Profil LinkedIn Anda]
+- Email: [Alamat Email Anda]
